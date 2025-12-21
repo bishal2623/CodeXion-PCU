@@ -19,8 +19,3 @@ I with my team had developed student grievance support system. We have developed
 * PHP
 * SQL
 * MYSQL Database
-
-I would like to show you some images:
-![Image of Yaktocat](https://i.imgur.com/JHdVxJd.jpg)
-![](https://i.imgur.com/FcnDwh1.jpg)
-![](https://i.imgur.com/FeOA1Ub.jpg)
