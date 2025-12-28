@@ -71,7 +71,7 @@ Implemented Features:
 6. Automated escalation mechanism
 
 
-Automated escalation mechanism
+
 <h2>🛠 Tech Stack</h2>
 
 <h3>◉ Frontend :</h3>
