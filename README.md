@@ -1,16 +1,68 @@
-# Student-grievance-support-system
+## Our Project : 
+This project is designed for students, parents, teachers, and educational authorities to ensure a transparent and efficient grievance redressal mechanism within educational institutions.
 
-I with my team had developed student grievance support system. We have developed the entire platform with the folloing key features.
+### Project Title :
+Student Grievance Support System
 
- - The first thing is the user (i.e. student, teacher, parents) can make thier login on the pltform to submit the grievance. Without login they can't send the grievance. Also, the respective authority should be logged in to resolve the grievance.
- - After successful login, user have to build thier profile on the platform. Because after submitting the grievance the profile is also shared with the respective authority. So, he/she can resolve your grievance efficiently.
- - The all activities of the users are notified to the user via message and mails. Also, the user and authority can see the history of the user. Also, user can track thier grievance and can come to know in which state the grievance is.
- - The respective authority can heck the grievance and the shared files and can make the certain action on it. He/she can complete the grievance by sending the specific mesage and documents.
- - If the user is not satisfied with the solution then he can generate the same grievance by just one click. But the past activities will store in the history.
- - If the particular authority is not solving the problems and if the grievace will be their for 3-5 days in his login then he will get the notification on his mobile phone and mail. If then also, he is not solving the problems and the grievance is there more than five days then the higher authority will get a notification regarding the same, and then higher authority will look into it and solve the issue.
- - The authorities are divided into three big categories such as department, college, and the University. Again these are divide into different parts based on the grievance type. The user have to select the category of his/her grievance and accordingly it will go to respective authority. If the user will send it to the wrong authority, then authority can send it to the correct person.
- - Also, the authority can send the instructions or notices to the right audience automatically. The person who is at department level can send the notices to the students of his department only.
+### Background :
+In educational institutions, students, parents, and teachers often face difficulties in raising and resolving grievances due to the lack of a structured and transparent system. Traditional grievance handling methods are usually manual, time-consuming, and inefficient, leading to delays and poor communication between stakeholders.
 
+### Situation : 
+Currently, many institutions rely on offline or unorganized grievance mechanisms where users cannot track the status of their complaints. This results in a lack of accountability, delayed responses, and dissatisfaction among students and parents.
+
+### Objective :
+To develop a centralized, web-based Student Grievance Support System that enables secure grievance submission, real-time tracking, and efficient communication between users and authorities, ensuring timely and transparent grievance resolution.
+
+### Aim : 
+1. To create a transparent and accountable grievance redressal platform.
+2. To reduce grievance resolution time through automation.
+3. To improve communication and trust between students and institutional authorities.
+
+### Summary :
+The Student Grievance Support System is a web-based platform designed to streamline the grievance redressal process within educational institutions. It allows students, teachers, and parents to submit grievances through a secure login system. The platform routes grievances to the appropriate authority, provides real-time tracking, maintains grievance history, and supports escalation to higher authorities if issues are not resolved within a defined time frame.
+
+### Key Features : 
+1. Role-based authentication (Student, Teacher, Parent, Authority)
+2. Mandatory user profile creation for effective grievance handling
+3. Secure grievance submission with document upload support
+4.Real-time grievance status tracking
+5. Email and in-app notifications for all activities
+6. Complete grievance history and records
+7. One-click grievance re-submission if the user is not satisfied
+8. Automatic escalation to higher authorities on delay
+9. Authority categorization (Department, College, University)
+10. Grievance redirection to the correct authority
+11. Targeted notice and instruction broadcasting
+
+### Objectives : 
+1. Enable secure login-based grievance submission
+2. Ensure transparency through real-time status updates
+3. Improve accountability using an automated escalation system
+4. Reduce manual effort and paperwork
+5. Maintain digital records of all grievance-related activities
+6. Facilitate effective communication between users and authorities
+
+### System Workflow :
+1. User logs in and creates a profile
+2. Grievance is submitted with category and supporting documents
+3. The grievance is forwarded to the respective authority
+4. Authority reviews the grievance and takes necessary action
+5. User tracks grievance status in real time
+6. If unresolved, the grievance is automatically escalated
+
+### Status : 
+
+Implemented Features:
+
+1. User authentication and role-based access
+2. Profile creation and management
+3. Grievance submission and tracking system
+4. Notification system via email and messages
+5. Authority-level grievance handling
+6. Automated escalation mechanism
+
+
+Automated escalation mechanism
 **Technologies Used:**
 * HTML
 * CSS
