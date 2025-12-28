@@ -1,3 +1,12 @@
+# <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> Student Grievance Support System 🏫</p>
+<h2 align="center">A Smart & Transparent Digital Grievance Redressal Platform🏫</h2>
+<hr>
+<h2 align="center">TEAM CODEXIONS : TEAM OF PASSIONATE DEVELOPERS FROM PCU</h2>
+
+<h2 align="center">COMPLETE DESCRIPTION</h2>
+
+
+
 ## Our Project : 
 This project is designed for students, parents, teachers, and educational authorities to ensure a transparent and efficient grievance redressal mechanism within educational institutions.
 
