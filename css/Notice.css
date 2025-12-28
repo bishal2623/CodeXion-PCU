@@ -1,0 +1,42 @@
+.col2{
+    width:70%;                                                                                                
+    margin-left: 350px;
+}
+.col2 p{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  color: blue;
+  margin-top: 10px;
+    padding-left: 10px;
+}
+.col2 p:hover{
+  background-color: #00008b;
+  border: 2px solid #00008b;
+}
+
+.col2 p{
+  color: #ffffff;
+  border: 2px solid blue;
+  border-radius: 25px;
+  background-color: blue;
+  box-shadow: 6px 8px 8px black;
+  margin-bottom: 50px;
+}
+
+table {
+  font-family: arial, serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #aaaaaa;
+  text-align: center;
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
