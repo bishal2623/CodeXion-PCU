@@ -101,3 +101,14 @@ Implemented Features:
 3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
 4. [Mohit Patil]()
 
+## Support
+
+💙 If you like this project, give it a ⭐ and share it with friends!
+You are free to send us PRs and issues, We'd love to help and improve this.
+
+<h1 align="center">🙏 THANK YOU 🙏</h1>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Codexions)
+
+
+
