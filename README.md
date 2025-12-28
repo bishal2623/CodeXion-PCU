@@ -93,3 +93,11 @@ Automated escalation mechanism
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
+## Project Created & Maintained By
+
+## :heart: Team Hawkeye
+1. [Bishal Saha ](https://www.linkedin.com/in/bishal-saha-934484378/)
+2. [Rujuta Pagar Patil](https://www.linkedin.com/in/rujuta-pagar-patil-23a840385/)
+3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
+4. [Mohit Patil]()
+
