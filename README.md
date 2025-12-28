@@ -1,4 +1,4 @@
-# <p align="center"><img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 12_02_23 AM" src="https://github.com/user-attachments/assets/6ef49d4d-6912-4d49-8b9b-ddaab153fd70" />
+# <p align="center"><img width="80" height="80" alt="ChatGPT Image Dec 29, 2025, 12_02_23 AM" src="https://github.com/user-attachments/assets/6ef49d4d-6912-4d49-8b9b-ddaab153fd70" />
  Student Grievance Support System 🏫</p>
 <h2 align="center">A Smart & Transparent Digital Grievance Redressal Platform🏫</h2>
 <hr>
