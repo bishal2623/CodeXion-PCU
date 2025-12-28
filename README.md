@@ -1,4 +1,9 @@
-# <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> Student Grievance Support System 🏫</p>
+<h1 align="center">
+  <img src="<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 12_02_23 AM" src="https://github.com/user-attachments/assets/9aae3b52-b430-48b6-8e98-2d793843570f" />" alt="SGSS Logo" width="60">
+  <br>
+  Student Grievance Support System
+</h1>
+
 <h2 align="center">A Smart & Transparent Digital Grievance Redressal Platform🏫</h2>
 <hr>
 <h2 align="center">TEAM CODEXIONS : TEAM OF PASSIONATE DEVELOPERS FROM PCU</h2>
