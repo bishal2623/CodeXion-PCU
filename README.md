@@ -1,5 +1,5 @@
-# <p align="center"><img width="80" height="80" alt="ChatGPT Image Dec 29, 2025, 12_02_23 AM" src="https://github.com/user-attachments/assets/6ef49d4d-6912-4d49-8b9b-ddaab153fd70" />
- Student Grievance Support System 🏫</p>
+# <p align="center"><img align="center" width="80" src="![Uploading ChatGPT Image Dec 29, 2025, 12_02_23 AM.png…]()
+"/> </p>
 <h2 align="center">A Smart & Transparent Digital Grievance Redressal Platform🏫</h2>
 <hr>
 <h2 align="center">TEAM CODEXIONS : TEAM OF PASSIONATE DEVELOPERS FROM PCU</h2>
