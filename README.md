@@ -123,4 +123,6 @@ You are welcome to submit <b>PRs and issues</b> — we’d love to improve this 
   <b>🙏 Thank You for Exploring the Student Grievance Support System 🙏</b>
 </div>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Codexions)
+
 
