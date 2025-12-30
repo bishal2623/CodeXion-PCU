@@ -1,21 +1,44 @@
-# Security Policy
+# 🔐 Security Policy
 
-## Supported Versions
+## 🛡 Project Protection & Integrity
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The **Student Grievance Support System (SGSS)** is a secured academic platform developed by **Team Codexions** to ensure transparency, accountability, and trust in grievance handling.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+This repository, including its source code, architecture, UI/UX, and documentation, is **strictly protected**.
 
-## Reporting a Vulnerability
+❗ Any attempt to copy, replicate, modify, redistribute, or deploy this project (fully or partially) without explicit written permission is strictly prohibited and may result in legal action.
 
-Use this section to tell people how to report a vulnerability.
+---
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## 🔒 Data & Access Security
+
+- Secure authentication-based access (Login required to submit grievances)
+- Role-based authorization (Students, Faculty, Parents, Authorities)
+- Server-side validation and database integrity checks
+- Protection against unauthorized submissions and data tampering
+
+This system is designed with **security-first principles** to ensure data confidentiality and system reliability.
+
+---
+
+## 🚨 Vulnerability Disclosure
+
+If you identify:
+- Security loopholes
+- Potential misuse
+- Unauthorized deployment
+- Code or data vulnerabilities
+
+Please report them responsibly.
+
+📩 **Official Contact**  
+GitHub: https://github.com/bishal2623  
+LinkedIn: https://www.linkedin.com/in/bishal-saha-934484378/
+
+---
+
+## ⚠️ Legal Notice
+
+Unauthorized usage, reproduction, or commercial deployment of this project is a direct violation of intellectual property rights and will be dealt with under applicable laws.
+
+This project is monitored and protected.
