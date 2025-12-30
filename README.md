@@ -1,80 +1,82 @@
-# <p align="center"><img align="center" width="80" src=""/> Student Grievance Support System 🏫</p>
-<h2 align="center">A Smart & Transparent Digital Grievance Redressal Platform🏫</h2>
-<hr>
-<h2 align="center">TEAM CODEXIONS : TEAM OF PASSIONATE DEVELOPERS FROM PCU</h2>
+<!-- ================================
+     STUDENT GRIEVANCE SUPPORT SYSTEM
+     ================================ -->
 
-<h2 align="center">COMPLETE DESCRIPTION</h2>
+<div align="center">
+  <h1>🏫 Student Grievance Support System</h1>
+  <p><b>A Smart & Transparent Digital Grievance Redressal Platform</b></p>
 
+  <p>🚀 <b>TEAM CODEXIONS</b> — A Team of Passionate Developers from PCU</p>
 
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Project-Type%20Web%20Application-blue" />
+  <img src="https://img.shields.io/badge/Focus-Grievance%20Redressal-orange" />
+</div>
 
-## Our Project : 
-This project is designed for students, parents, teachers, and educational authorities to ensure a transparent and efficient grievance redressal mechanism within educational institutions.
+<hr/>
 
-### Project Title :
-Student Grievance Support System
+<h2>📌 About the Project</h2>
+<p>
+The <b>Student Grievance Support System</b> is a centralized, web-based platform designed to provide a <b>transparent, efficient, and accountable grievance redressal mechanism</b> for educational institutions. 
+It enables students, parents, teachers, and authorities to raise, track, and resolve grievances digitally with complete visibility and accountability.
+</p>
 
-### Background :
-In educational institutions, students, parents, and teachers often face difficulties in raising and resolving grievances due to the lack of a structured and transparent system. Traditional grievance handling methods are usually manual, time-consuming, and inefficient, leading to delays and poor communication between stakeholders.
+<hr/>
 
-### Situation : 
-Currently, many institutions rely on offline or unorganized grievance mechanisms where users cannot track the status of their complaints. This results in a lack of accountability, delayed responses, and dissatisfaction among students and parents.
+<h2>📖 Background</h2>
+<p>
+In many educational institutions, grievance handling is still manual, unorganized, and time-consuming. 
+This leads to delayed responses, lack of accountability, and poor communication between stakeholders.
+</p>
 
-### Objective :
-To develop a centralized, web-based Student Grievance Support System that enables secure grievance submission, real-time tracking, and efficient communication between users and authorities, ensuring timely and transparent grievance resolution.
+<p>
+This project addresses these challenges by offering a <b>structured, automated, and role-based grievance management system</b> that ensures timely resolution and builds trust within the institution.
+</p>
 
-### Aim : 
-1. To create a transparent and accountable grievance redressal platform.
-2. To reduce grievance resolution time through automation.
-3. To improve communication and trust between students and institutional authorities.
+<hr/>
 
-### Summary :
-The Student Grievance Support System is a web-based platform designed to streamline the grievance redressal process within educational institutions. It allows students, teachers, and parents to submit grievances through a secure login system. The platform routes grievances to the appropriate authority, provides real-time tracking, maintains grievance history, and supports escalation to higher authorities if issues are not resolved within a defined time frame.
+<h2>🎯 Objective & Aim</h2>
+<ul>
+  <li>✅ Create a <b>transparent and accountable</b> grievance redressal platform</li>
+  <li>⏱ Reduce grievance resolution time through automation</li>
+  <li>🔐 Enable secure, login-based grievance submission</li>
+  <li>🤝 Improve communication between users and authorities</li>
+  <li>📂 Maintain complete digital records of grievances</li>
+</ul>
 
-### Key Features : 
-1. Role-based authentication (Student, Teacher, Parent, Authority)
-2. Mandatory user profile creation for effective grievance handling
-3. Secure grievance submission with document upload support
-4.Real-time grievance status tracking
-5. Email and in-app notifications for all activities
-6. Complete grievance history and records
-7. One-click grievance re-submission if the user is not satisfied
-8. Automatic escalation to higher authorities on delay
-9. Authority categorization (Department, College, University)
-10. Grievance redirection to the correct authority
-11. Targeted notice and instruction broadcasting
+<hr/>
 
-### Objectives : 
-1. Enable secure login-based grievance submission
-2. Ensure transparency through real-time status updates
-3. Improve accountability using an automated escalation system
-4. Reduce manual effort and paperwork
-5. Maintain digital records of all grievance-related activities
-6. Facilitate effective communication between users and authorities
+<h2>✨ Key Features</h2>
+<ul>
+  <li>🔐 <b>Role-Based Authentication</b> (Student, Teacher, Parent, Authority)</li>
+  <li>👤 <b>Mandatory Profile Creation</b> for effective grievance handling</li>
+  <li>📄 <b>Secure Grievance Submission</b> with document upload support</li>
+  <li>📊 <b>Real-Time Grievance Status Tracking</b></li>
+  <li>🔔 <b>Email & In-App Notifications</b> for every action</li>
+  <li>🗂 <b>Complete Grievance History & Records</b></li>
+  <li>🔁 <b>One-Click Re-Submission</b> if the user is not satisfied</li>
+  <li>🚨 <b>Automatic Escalation</b> to higher authorities on delay</li>
+  <li>🏢 <b>Authority Categorization</b> (Department, College, University)</li>
+  <li>📢 <b>Targeted Notices & Instructions</b> from authorities</li>
+</ul>
 
-### System Workflow :
-1. User logs in and creates a profile
-2. Grievance is submitted with category and supporting documents
-3. The grievance is forwarded to the respective authority
-4. Authority reviews the grievance and takes necessary action
-5. User tracks grievance status in real time
-6. If unresolved, the grievance is automatically escalated
+<hr/>
 
-### Status : 
+<h2>🔄 System Workflow</h2>
+<ol>
+  <li>👤 User logs in and creates a profile</li>
+  <li>📝 Grievance is submitted with category and supporting documents</li>
+  <li>📨 Grievance is forwarded to the respective authority</li>
+  <li>⚖️ Authority reviews and takes necessary action</li>
+  <li>📊 User tracks grievance status in real time</li>
+  <li>🚨 If unresolved, grievance is automatically escalated</li>
+</ol>
 
-Implemented Features:
+<hr/>
 
-1. User authentication and role-based access
-2. Profile creation and management
-3. Grievance submission and tracking system
-4. Notification system via email and messages
-5. Authority-level grievance handling
-6. Automated escalation mechanism
+<h2>🛠️ Tech Stack</h2>
 
-
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>◉ Frontend :</h3>
+<h3>🎨 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -82,33 +84,45 @@ Implemented Features:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<h3>◉ Backend :</h3>
+<h3>⚙️ Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<h3>◉ Database :</h3>
+<h3>🗄️ Database</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-## Project Created & Maintained By
+<hr/>
 
-## :heart: Team Codexions
-1. [Bishal Saha ](https://www.linkedin.com/in/bishal-saha-934484378/)
-2. [Rujuta Pagar Patil](https://www.linkedin.com/in/rujuta-pagar-patil-23a840385/)
-3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
-4. [Mohit Patil]()
+<h2>📷 Preview</h2>
+<p><i>(Add screenshots of the system interface here)</i></p>
 
-## Support
+<hr/>
 
-💙 If you like this project, give it a ⭐ and share it with friends!
-You are free to send us PRs and issues, We'd love to help and improve this.
+<h2>👥 Project Created & Maintained By</h2>
+<p>
+❤️ <b>Team Codexions</b><br/>
+• Bishal Saha<br/>
+• Rujuta Pagar Patil<br/>
+• Anushka Kulshrestha<br/>
+• Mohit Patil
+</p>
 
-<h1 align="center">🙏 THANK YOU 🙏</h1>
+<hr/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Codexions)
+<h2>🤝 Support & Contribution</h2>
+<p>
+💙 If you like this project, give it a <b>⭐ star</b> and share it with others.<br/>
+You are welcome to submit <b>PRs and issues</b> — we’d love to improve this project together!
+</p>
 
+<hr/>
+
+<div align="center">
+  <b>🙏 Thank You for Exploring the Student Grievance Support System 🙏</b>
+</div>
 
 
