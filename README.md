@@ -97,18 +97,16 @@ This project addresses these challenges by offering a <b>structured, automated, 
 
 <hr/>
 
-<h2>📷 Preview</h2>
-<p><i>(Add screenshots of the system interface here)</i></p>
-
 <hr/>
 
 <h2>👥 Project Created & Maintained By</h2>
 <p>
 ❤️ <b>Team Codexions</b><br/>
-• Bishal Saha<br/>
-• Rujuta Pagar Patil<br/>
-• Anushka Kulshrestha<br/>
-• Mohit Patil
+## Project Created & Maintained By
+1. [Bishal Saha ](https://www.linkedin.com/in/bishal-saha-934484378/)
+2. [Rujuta Pagar Patil](https://www.linkedin.com/in/rujuta-pagar-patil-23a840385/)
+3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
+4. [Mohit Patil]()
 </p>
 
 <hr/>
