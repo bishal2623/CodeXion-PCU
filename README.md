@@ -103,10 +103,10 @@ This project addresses these challenges by offering a <b>structured, automated, 
 <p>
 ❤️ <b>Team Codexions</b><br/>
 ## Project Created & Maintained By
-1. [Bishal Saha ](https://www.linkedin.com/in/bishal-saha-934484378/)
-2. [Rujuta Pagar Patil](https://www.linkedin.com/in/rujuta-pagar-patil-23a840385/)
-3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
-4. [Mohit Patil]()
+ 1. [Bishal Saha ](https://www.linkedin.com/in/bishal-saha-934484378/)
+ 2. [Rujuta Pagar Patil](https://www.linkedin.com/in/rujuta-pagar-patil-23a840385/)
+ 3. [Anushka Kulshrestha](https://www.linkedin.com/in/anushka-kulshrestha-880915390/)
+ 4. [Mohit Patil]()
 </p>
 
 <hr/>
