@@ -32,8 +32,8 @@ If you identify:
 Please report them responsibly.
 
 📩 **Official Contact**  
-GitHub: https://github.com/bishal2623  
-LinkedIn: https://www.linkedin.com/in/bishal-saha-934484378/
+<b>GitHub:</b> <a href="https://github.com/bishal2623">bishal2623</a> <br/>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bishal-saha-934484378/">Bishal Saha</a>
 
 ---
 
