@@ -9,7 +9,7 @@
   <p>🚀 <b>TEAM CODEXIONS</b> — A Team of Passionate Developers from PCU</p> 
 
   <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Project-Type%20Web%20Application-blue" />
+  <img src="https://img.shields.io/badge/Project-Type%20Web%20Application-blue" /> 
   <img src="https://img.shields.io/badge/Focus-Grievance%20Redressal-orange" />
 </div>
 
