@@ -6,7 +6,7 @@
   <h1>🏫 Student Grievance Support System</h1>
   <p><b>A Smart & Transparent Digital Grievance Redressal Platform</b></p>
 
-  <p>🚀 <b>TEAM CODEXIONS</b> — A Team of Passionate Developers from PCU</p>
+  <p>🚀 <b>TEAM CODEXIONS</b> — A Team of Passionate Developers from PCU</p> 
 
   <img src="https://img.shields.io/badge/Status-Active-success" />
   <img src="https://img.shields.io/badge/Project-Type%20Web%20Application-blue" />
